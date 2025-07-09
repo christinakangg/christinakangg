@@ -7,7 +7,9 @@ This summer, I am currently working on my Excel, SQL, and Tableau skills.
 
 ### 🛠️ Tools
 Language: Python, Java, JavaScript, React, R, SQL
+
 Database: MySQL, SQLite, MongoDB, Firebase
+ 
 Visualization: Tableau, PowerBI
 
 ### 📫 Reach me:
