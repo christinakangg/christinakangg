@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, nice to meet you! 👋
 
+I'm Christina, a graduate student majoring in computer science at Northeastern University and an aspiring data analyst!
+
+ 📫 Reach me:
+ On GitHub and LinkedIn!
 <!--
 **christinakangg/christinakangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
